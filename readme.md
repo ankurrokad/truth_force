@@ -8,7 +8,7 @@ Project Structure
     ├── notebook                    # Jupyter notebooks
         ├── Analysis                                		# Sweetviz & pandas profiling analysis
         ├── Dataset                                 		# Dataset files
-      	├── Html                                    		# Html version of the notebooks.
+        ├── Html                                    		# Html version of the notebooks.
         ├── models                                  		# Trained models
      	├── 1_Preprocessing.ipynb		    		        # Data preprocessing and EDA
         ├── 2_Modeling.ipynb                        		# Classification models training
