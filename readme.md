@@ -10,7 +10,7 @@ Project Structure
         ├── Dataset                                 		# Dataset files
         ├── Html                                    		# Html version of the notebooks.
         ├── models                                  		# Trained models
-     	├── 1_Preprocessing.ipynb		    		        # Data preprocessing and EDA
+        ├── 1_Preprocessing.ipynb		    		        # Data preprocessing and EDA
         ├── 2_Modeling.ipynb                        		# Classification models training
         ├── 3_Modeling_cross_validation.ipnyb       		# Classification models cross-validation training
         ├── 4_LSTM_modeling.ipynb                   		# LSTM model training
