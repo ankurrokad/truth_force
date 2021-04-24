@@ -17,3 +17,4 @@ Project Structure
         └── 5_LSTM_modeling_cross_validation.ipynb	    	# LSTM model cross-validation training
     ├── Truth_Force.WEBM            # Video of website
     └── README.md
+    
